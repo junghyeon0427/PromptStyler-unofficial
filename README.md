@@ -13,7 +13,7 @@ Reproduced by [**Song Seungheon**](https://github.com/song1248), **Seo Junghyeon
 1. Clone this repository and navigate to PromptStyler folder
 
 ```
-$ git clone https://github.com/ai-kmu/PromptStyler.git
+$ git clone https://github.com/junghyeon0427/PromptStyler-unofficial.git
 $ cd PromptStyler
 ```
 
