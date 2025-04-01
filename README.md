@@ -6,7 +6,7 @@ Original paper link : https://arxiv.org/abs/2307.15199
 ![Screenshot 2024-03-04 at 17 46 53](https://github.com/ai-kmu/PromptStyler/assets/77001598/c2e4a5a8-5907-4185-a9e7-8b1e25c1c242)
 
 
-Reproduced by **Song Seungheon**, **Seo Junghyeon**
+Reproduced by [**Song Seungheon**](https://github.com/song1248), **Seo Junghyeon**
 
 ## Requirement
 
